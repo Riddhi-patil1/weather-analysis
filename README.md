@@ -69,7 +69,7 @@ The dataset covers **30 days of weather data**.
 ## ▶️ How to Run the Project
 
 1. Place `weather_data.csv` and `anala.ipynb` in the same folder  
-2. Open `analysis.ipynb` using Jupyter Notebook or VS Code  
+2. Open `anala.ipynb` using Jupyter Notebook or VS Code  
 3. Run the notebook cells sequentially  
 
 ---
@@ -99,4 +99,5 @@ The dataset covers **30 days of weather data**.
 ## 📌 Note
 
 This project is created for learning and practice purposes.
+
 
