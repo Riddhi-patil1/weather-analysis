@@ -9,7 +9,11 @@ This project was built to strengthen foundational data analysis and visualizatio
 ---
 
 ## 📂 Project Structure
-weather-analysis/ │ ├── weather_data.csv ├── anala.ipynb ├── Temp_trends.png └── README.md
+weather-analysis/ │
+                  ├── weather_data.csv
+                  ├── anala.ipynb 
+                  ├── Temp_trends.png
+                  └── README.md
 Copy code
 
 ---
@@ -89,4 +93,5 @@ The dataset covers **30 days of weather data**.
 **Riddhi**    
 
 ## 📌 Note
+
 This project is created for learning and practice purposes.
